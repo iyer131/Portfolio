@@ -8,3 +8,6 @@
 
 ## [Project 3: SheInvestsBackend](https://github.com/iyer131/SheInvestsBackend)
 Backend application with income calculations.
+
+## [Project 4: SheInvestsBackend](https://github.com/iyer131/Microcontroller-Project)
+Developed a Dance Dance Revolution-inspired game using an STM32 microcontroller, featuring synchronized animations, music playback, real-time scoring, and LED feedback 
