@@ -11,3 +11,6 @@ Backend application with income calculations.
 
 ## [Project 4: Dance Dance Revolution-Inspired Game Project](https://github.com/iyer131/Microcontroller-Project)
 Developed a Dance Dance Revolution-inspired game using an STM32 microcontroller, featuring synchronized animations, music playback, real-time scoring, and LED feedback 
+
+## [Project 5: GIFt - A Mental Health AI-Powered GIF App](https://github.com/iyer131/GIFt)
+Developed a React Native app with mental-health-focused GIFs, featuring daily comfort GIFs, AI mood responses, interactive calendar events, and social sharing
