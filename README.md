@@ -3,7 +3,7 @@
 ## [Project 1: GIFt - A Mental Health AI-Powered GIF App](https://github.com/iyer131/GIFt)
   Developed a React Native app with mental-health-focused GIFs, featuring daily comfort GIFs, AI mood responses, interactive calendar events, and social sharing
 
-## [Project 2: GIFt - A Mental Health AI-Powered GIF App](https://github.com/iyer131/Pretty-Good-AI-Voice-Bot.git)
+## [Project 2: AI Chatbot](https://github.com/iyer131/Pretty-Good-AI-Voice-Bot.git)
  Developed a chatbot to test a medical AI agent 
  
 ## [Project 3: PythonComputerVision](https://github.com/iyer131/PythonComputerVision)
